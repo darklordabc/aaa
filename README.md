@@ -1,4 +1,4 @@
-# Open Angel Arena ![travis-ci](https://api.travis-ci.org/OpenAngelArena/oaa.svg?branch=master)
+# Open Angel Arena ![travis-ci](https://api.travis-ci.org/OpenAngelArena/oaa.svg?branch=master)1
 A really great Dota 2 game mode built by [really great people](/contributors.md).
 
 # Installation
